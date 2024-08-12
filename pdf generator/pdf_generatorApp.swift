@@ -11,7 +11,8 @@ import SwiftUI
 struct pdf_generatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            CustomPDFView()
         }
     }
 }
